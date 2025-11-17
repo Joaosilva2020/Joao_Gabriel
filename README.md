@@ -17,7 +17,7 @@ Estou no caminho de aprendizagem e já possuo conhecimento básico nas seguintes
 ** CSS:** Básico
 **JavaScript:** Básico
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=10&theme=dark" alt="Linguagens Mais Usadas"/>e 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva&layout=compact&langs_count=10&theme=dark" alt="Linguagens Mais Usadas"/>e 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
@@ -29,8 +29,11 @@ Estou no caminho de aprendizagem e já possuo conhecimento básico nas seguintes
 
 #### estatísticas do github
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao_Gabrieç&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+### 📈 Estatísticas do GitHub
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva2020&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva2020&layout=compact&langs_count=10&theme=dark" alt="Linguagens Mais Usadas"/>
 
 
 #### 🌱 O que estou aprendendo
