@@ -5,7 +5,7 @@
 * **Estudando Atualmente:** Análise e Desenvolvimento de Sistemas (3 semestre)
 * **Pronome:** Ele/dele
 
-# 🎯 Meu Objetivo Sincero
+# 🎯 Meu Objetivo 
 > "Meu foco é me aprofundar no desenvolvimento de sistemas,para crescer como um profissional de tecnologia no futuro. Estou dedicado a transformar o conhecimento em soluções práticas e a cada dia busco ser melhor, aprendendo e aplicando novos conceitos."
 
 
